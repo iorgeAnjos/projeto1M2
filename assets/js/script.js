@@ -20,7 +20,7 @@ botao.addEventListener('click', () =>{
     }else if(botao.value==2){
         imagem.src = "./assets/img/ssjL_Broly.jpeg";
         estado.innerText = "Forma: super sayajin lendario";
-        poder.innerText = "Poder: 50000";
+        poder.innerText = "Poder: ???????";
         situacao.innerText = "Situacão: desastrosa";
         botao.value ++
     }else{
