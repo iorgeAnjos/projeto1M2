@@ -7,19 +7,17 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between ;
+    justify-content: center;
+    text-align: center;
 }
 header h1{
-    text-align: center;
     padding: .5rem;
     background-color: rgb(2, 43, 2);
     color: white;
 }
 main{
     padding: 1rem 10rem 2rem 10rem;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
+}   
 main h2{
     padding: .5rem 0 2rem 0;
     font-size: 2rem;
@@ -42,7 +40,6 @@ button:hover{
     color: white;
 }
 footer{
-    text-align: center;
     background-color: rgb(2, 43, 2);
     color: white;
     padding: 0 0 .14rem 0;
